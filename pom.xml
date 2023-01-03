@@ -44,6 +44,7 @@
         </dependency>
 
 <!--        test-->
+<!--
         <dependency>
             <groupId>org.junit.platform</groupId>
             <artifactId>junit-platform-runner</artifactId>
@@ -54,6 +55,8 @@
             <artifactId>embedded-redis</artifactId>
             <version>0.6</version>
         </dependency>
+-->
+
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>

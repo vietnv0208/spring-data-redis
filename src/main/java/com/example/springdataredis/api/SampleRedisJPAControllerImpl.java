@@ -4,9 +4,6 @@ import com.example.springdataredis.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import redis.clients.jedis.Response;
-
-import javax.websocket.server.PathParam;
 
 @RestController
 public class SampleRedisJPAControllerImpl {
